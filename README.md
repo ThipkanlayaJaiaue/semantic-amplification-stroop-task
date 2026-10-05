@@ -7,7 +7,7 @@
 ---
 ### ❝ ❞ **How to cite**
 
-**Jaiaue, T., & Gallicchio, G. (2026). Semantic-amplification-stroop-task. Zenodo. https://doi.org/10.5281/zenodo.23164164**
+**Jaiaue, T., & Gallicchio, G. (2026). Semantic-amplification-Stroop-task. Zenodo. https://doi.org/10.5281/zenodo.23164164**
 
 ---
 
